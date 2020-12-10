@@ -1,1 +1,1 @@
-# Digir-tal-logic
+# Digital-logic
